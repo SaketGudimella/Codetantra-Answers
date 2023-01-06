@@ -1,2 +1,7 @@
 # Codetantra-Answers---C
-These are the answers for C programs in codetantra.
+
+This repository contains the following solutions for codetantra problems related to C programming. 
+
+Solutions for the following problems are provided:
+
+1) 
