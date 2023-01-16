@@ -4,4 +4,6 @@ This repository contains the solutions for codetantra problems related to C prog
 
 Solutions for the following problems are provided:
 
-1) 
+Arrays with Pointers - Hard
+
+1) cycleSwap.c
