@@ -7,3 +7,4 @@ Solutions for the following problems are provided:
 Arrays with Pointers - Hard
 
 1) cycleSwap.c
+2) permutations.c
