@@ -44,5 +44,8 @@ Two-dimensional Arrays - Easy
 4) readPrint.c
 5) upperTriangle.c
 
+Python data structures - Easy
+
+1) Tuple12.py
 
 
