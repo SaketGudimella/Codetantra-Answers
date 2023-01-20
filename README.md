@@ -47,5 +47,9 @@ Two-dimensional Arrays - Easy
 Python data structures - Easy
 
 1) Tuple12.py
-
+2) merging.py
+3) Tuple13.py
+4) Tuple14.py
+5) StringTest9.py
+6) StringTest10.py
 
