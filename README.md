@@ -1,4 +1,4 @@
-# Codetantra-Answers for C
+# Codetantra-Answers
 
 This repository contains the solutions for codetantra test cases related to C and Python. 
 
