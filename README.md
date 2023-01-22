@@ -79,8 +79,8 @@ Fuctions - Easy
 5) fibonacci.c
 6) sumOfArray.c
 
-
-              --------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---------------------------------------
+ 
+----------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx----------------------------------------------------------------
 
 
 Python data structures - Easy
