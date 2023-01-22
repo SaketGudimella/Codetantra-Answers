@@ -4,6 +4,8 @@ This repository contains the solutions for codetantra test cases related to C an
 
 Solutions for the following problems are provided:
 
+**C**
+
 Arrays with Pointers - Hard
 
 1) cycleSwap.c
@@ -80,8 +82,8 @@ Fuctions - Easy
 6) sumOfArray.c
 
  
-----------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx----------------------------------------------------------------
 
+**Python** 
 
 Python data structures - Easy
 
