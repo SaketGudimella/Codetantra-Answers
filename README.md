@@ -4,7 +4,7 @@ This repository contains the solutions for codetantra test cases related to C an
 
 Solutions for the following problems are provided:
 
-#**C**
+**C**
 
 Arrays with Pointers - Hard
 
@@ -83,7 +83,7 @@ Fuctions - Easy
 
  
 
-#**Python** 
+**Python** 
 
 Python data structures - Easy
 
