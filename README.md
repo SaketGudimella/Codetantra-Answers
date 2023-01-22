@@ -44,6 +44,44 @@ Two-dimensional Arrays - Easy
 4) readPrint.c
 5) upperTriangle.c
 
+Strings - Hard
+
+1) AcmTeam.c
+2) AppendAndDelete.c
+3) CTC40.c
+
+Strings - Medium
+
+1) chars_remove.c
+
+Strings - Easy
+
+1) CTC1566.c
+2) Program610.c
+3) ReverseOfString.c
+
+Fuctions - Hard
+
+1) FuctionsExample9.c
+
+Fuctions - Medium
+
+1) FunctionsExample3a.c
+2) FunctionsExample7a.c
+3) Program703a.c
+
+Fuctions - Easy
+
+1) FunctionsWithArrays2.c
+2) Printfscanf.c
+3) Program713a.c
+4) Program910a.c
+5) fibonacci.c
+6) sumOfArray.c
+
+
+--------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx----------------------------------------------------------
+
 Python data structures - Easy
 
 1) Tuple12.py
