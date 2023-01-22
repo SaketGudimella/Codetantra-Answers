@@ -80,7 +80,7 @@ Fuctions - Easy
 6) sumOfArray.c
 
 
---------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx----------------------------------------------------------
+--------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---------------------------------------------------
 
 Python data structures - Easy
 
