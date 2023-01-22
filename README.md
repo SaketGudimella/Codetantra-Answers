@@ -53,3 +53,36 @@ Python data structures - Easy
 5) StringTest9.py
 6) StringTest10.py
 
+Python data structures - Medium
+
+1) MaxMinOfDict.py
+2) SetMemb.py
+3) occurrences.py
+
+Python data structures - Hard
+
+1) Tuple8.py
+2) noofcharacters.py
+
+Arrays in Python - Easy
+
+1) List7.py
+2) List6.py
+3) List4.py
+4) Lab11a.py
+
+Arrays in Python - Medium
+
+1) Lab3c.py
+2) mergeList1.py
+
+Arrays in Python - Hard
+
+1) Lab10a.py
+2) Lab10b.py
+3) Listsumsqnum.py
+4) Secondmaxandmin.py
+
+
+
+
