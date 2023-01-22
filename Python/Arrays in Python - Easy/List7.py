@@ -1,0 +1,5 @@
+d1=input('data1: ')
+d2=input('data2: ')
+l1=d1.split(',')
+l2=d2.split(',')
+print(bool(l1[0]==l2[0] or l1[-1]==l2[-1]))
