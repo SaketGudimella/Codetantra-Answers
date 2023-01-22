@@ -1,0 +1,7 @@
+data1 = input("data1: ")
+data2 = input("data2: ")
+list1 = sorted(data1.split(","))
+list2 = sorted(data2.split(","))
+dict1 = dict(zip(list1, list2))
+print('max:',dict1[max(dict1)])
+print('min:',dict1[min(dict1)])
