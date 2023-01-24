@@ -1,6 +1,6 @@
 # Codetantra Answers
 
-This repository contains the solutions for codetantra test cases related to C and Python. 
+This repository contains the solutions for some codetantra test cases related to C and Python. 
 
 Solutions for the following problems are provided:
 
